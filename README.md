@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maurice
 - 👀 I’m interested in all kinds of code challenges
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on C++
+- 🌱 I’m currently experiencing my journey as a backend C# developer at an enterprise
+- 💞️ I’m looking to collaborate on C++ and C#
 - 📫 How to reach me at https://www.linkedin.com/in/mauriceserlie/
 
 <!---
